@@ -1,0 +1,188 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Coursera Calendars//NONSGML//EN
+X-WR-CALNAME:Natural Language Processing
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:970276|quiz|7|hard
+DTSTART:20300101T070100Z
+DTEND:20300101T080100Z
+DTSTAMP:20300101T070100Z
+CREATED:20130425T203933Z
+DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
+LAST-MODIFIED:20300101T070100Z
+LOCATION:https://class.coursera.org/nlangp-001/quiz/start?quiz_id=7
+SUMMARY:Getting to know you (Hard Deadline)
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:970276|quiz|218|hard
+DTSTART:20130319T025900Z
+DTEND:20130319T035900Z
+DTSTAMP:20130319T025900Z
+CREATED:20130425T203933Z
+DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
+LAST-MODIFIED:20130319T025900Z
+LOCATION:https://class.coursera.org/nlangp-001/quiz/start?quiz_id=218
+SUMMARY:Quiz 1: covers material from weeks 1 and 2 (Hard Deadline)
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:970276|quiz|224|hard
+DTSTART:20130402T025900Z
+DTEND:20130402T035900Z
+DTSTAMP:20130402T025900Z
+CREATED:20130425T203933Z
+DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
+LAST-MODIFIED:20130402T025900Z
+LOCATION:https://class.coursera.org/nlangp-001/quiz/start?quiz_id=224
+SUMMARY:Quiz 2: covers material from weeks 3 and 4 (Hard Deadline)
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:970276|quiz|244|hard
+DTSTART:20130423T025900Z
+DTEND:20130423T035900Z
+DTSTAMP:20130423T025900Z
+CREATED:20130425T203933Z
+DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
+LAST-MODIFIED:20130423T025900Z
+LOCATION:https://class.coursera.org/nlangp-001/quiz/start?quiz_id=244
+SUMMARY:Quiz 3: covers material from weeks 5 and 6 (Hard Deadline)
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:970276|quiz|244|soft
+DTSTART:20130416T025900Z
+DTEND:20130416T035900Z
+DTSTAMP:20130416T025900Z
+CREATED:20130425T203933Z
+DESCRIPTION:If you submit any time after the due date\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
+LAST-MODIFIED:20130416T025900Z
+LOCATION:https://class.coursera.org/nlangp-001/quiz/start?quiz_id=244
+SUMMARY:Quiz 3: covers material from weeks 5 and 6 (Due Date)
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:970276|quiz|314|hard
+DTSTART:20130513T140300Z
+DTEND:20130513T150300Z
+DTSTAMP:20130513T140300Z
+CREATED:20130425T203933Z
+DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
+LAST-MODIFIED:20130513T140300Z
+LOCATION:https://class.coursera.org/nlangp-001/quiz/start?quiz_id=314
+SUMMARY:Quiz 4: covers material from weeks 7 and 8 (Hard Deadline)
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:970276|quiz|314|soft
+DTSTART:20130506T140300Z
+DTEND:20130506T150300Z
+DTSTAMP:20130506T140300Z
+CREATED:20130425T203933Z
+DESCRIPTION:If you submit any time after the due date\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
+LAST-MODIFIED:20130506T140300Z
+LOCATION:https://class.coursera.org/nlangp-001/quiz/start?quiz_id=314
+SUMMARY:Quiz 4: covers material from weeks 7 and 8 (Due Date)
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:970276|assignment|3|hard
+DTSTART:20130409T025900Z
+DTEND:20130409T035900Z
+DTSTAMP:20130409T025900Z
+CREATED:20130425T203933Z
+DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
+LAST-MODIFIED:20130409T025900Z
+LOCATION:https://class.coursera.org/nlangp-001/assignment/view?assignment_id=3
+SUMMARY:1. Hidden Markov Models (Hard Deadline)
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:970276|assignment|3|soft
+DTSTART:20130402T025900Z
+DTEND:20130402T035900Z
+DTSTAMP:20130402T025900Z
+CREATED:20130425T203933Z
+DESCRIPTION:If you submit any time after the due date\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
+LAST-MODIFIED:20130402T025900Z
+LOCATION:https://class.coursera.org/nlangp-001/assignment/view?assignment_id=3
+SUMMARY:1. Hidden Markov Models (Due Date)
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:970276|assignment|5|hard
+DTSTART:20130422T150000Z
+DTEND:20130422T160000Z
+DTSTAMP:20130422T150000Z
+CREATED:20130425T203933Z
+DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
+LAST-MODIFIED:20130422T150000Z
+LOCATION:https://class.coursera.org/nlangp-001/assignment/view?assignment_id=5
+SUMMARY:2. Parsing (Hard Deadline)
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:970276|assignment|5|soft
+DTSTART:20130415T151200Z
+DTEND:20130415T161200Z
+DTSTAMP:20130415T151200Z
+CREATED:20130425T203933Z
+DESCRIPTION:If you submit any time after the due date\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
+LAST-MODIFIED:20130415T151200Z
+LOCATION:https://class.coursera.org/nlangp-001/assignment/view?assignment_id=5
+SUMMARY:2. Parsing (Due Date)
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:970276|assignment|7|hard
+DTSTART:20130508T150000Z
+DTEND:20130508T160000Z
+DTSTAMP:20130508T150000Z
+CREATED:20130425T203933Z
+DESCRIPTION:If you submit any time after the hard deadline\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
+LAST-MODIFIED:20130508T150000Z
+LOCATION:https://class.coursera.org/nlangp-001/assignment/view?assignment_id=7
+SUMMARY:3. Translation Alignment (Hard Deadline)
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:970276|assignment|7|soft
+DTSTART:20130501T150000Z
+DTEND:20130501T160000Z
+DTSTAMP:20130501T150000Z
+CREATED:20130425T203933Z
+DESCRIPTION:If you submit any time after the due date\, you will not receive credit. Note that deadlines are sometimes extended\, so check the website for the latest information.
+LAST-MODIFIED:20130501T150000Z
+LOCATION:https://class.coursera.org/nlangp-001/assignment/view?assignment_id=7
+SUMMARY:3. Translation Alignment (Due Date)
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
